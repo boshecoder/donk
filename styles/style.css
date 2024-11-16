@@ -1,0 +1,18 @@
+html, body {
+  margin: 0%;
+  padding: 0%;
+}
+
+#img {
+  position: fixed;
+  width: 75vh;
+}
+
+h1 {
+  position: fixed;
+  top: 5vh;
+  font-size: 2vh;
+  left: 50%;
+  transform: translate(-50%, 0);
+  color: white;
+}
